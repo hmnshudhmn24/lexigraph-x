@@ -1,0 +1,8 @@
+{
+  "entity_types": [
+    "PERSON",
+    "ORG",
+    "LOCATION",
+    "TECH"
+  ]
+}

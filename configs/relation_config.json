@@ -1,0 +1,6 @@
+{
+  "relations": [
+    "works_at",
+    "developed_by"
+  ]
+}
