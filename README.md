@@ -1,24 +1,10 @@
----
-language: en
-license: apache-2.0
-pipeline_tag: graph-ml
-tags:
-  - knowledge-graphs
-  - nlp
-  - entity-linking
-  - relation-extraction
-  - temporal-graphs
-  - graph-ml
-model_name: LexiGraph-X
----
-
-# LexiGraph-X 🕸️📚
+# LexiGraph-X 
 
 **LexiGraph-X** is a **Level-5 NLP-driven knowledge graph engine** that builds and continuously updates **dynamic knowledge graphs** from raw text streams.
 
 It combines **entity linking, relation extraction, temporal graph updates, and context-aware node weighting**, enabling intelligent graph construction from unstructured data.
 
----
+
 
 ## 🚀 Key Capabilities
 
@@ -29,7 +15,6 @@ It combines **entity linking, relation extraction, temporal graph updates, and c
 - 🕸️ Dynamic Knowledge Graph Construction  
 - 🤗 Hugging Face–Ready (`graph-ml`)  
 
----
 
 ## 🧠 System Architecture
 
@@ -53,7 +38,7 @@ Node Weighting
 Dynamic Knowledge Graph
 ```
 
----
+
 
 ## 📥 Input Format
 
@@ -66,7 +51,7 @@ Dynamic Knowledge Graph
 }
 ```
 
----
+
 
 ## 📤 Output Format
 
@@ -94,7 +79,7 @@ Dynamic Knowledge Graph
 }
 ```
 
----
+
 
 ## 🛠️ Installation & Usage
 
@@ -104,7 +89,7 @@ cd lexigraph-x
 python inference.py
 ```
 
----
+
 
 ## 📁 Project Structure
 
@@ -121,7 +106,7 @@ lexigraph-x/
 └── requirements.txt
 ```
 
----
+
 
 ## 🎯 Use Cases
 
@@ -130,7 +115,7 @@ lexigraph-x/
 - Research in graph intelligence  
 - Text-to-graph pipelines  
 
----
+
 
 ## 🔮 Future Improvements
 
@@ -138,12 +123,9 @@ lexigraph-x/
 - Graph Neural Networks
 - Knowledge graph visualization
 
----
+
 
 ## 📜 License
 
 Apache License 2.0
 
----
-
-**LexiGraph-X bridges NLP and graph intelligence to power next-gen knowledge systems.**
